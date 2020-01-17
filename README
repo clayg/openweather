@@ -1,0 +1,5 @@
+You need to add your APPID to your environment
+
+	export APPID=<your app id>
+
+a app.rc-sample is provided
